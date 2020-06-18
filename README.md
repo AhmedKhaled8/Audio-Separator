@@ -6,7 +6,7 @@
 </center>
 
 ##### NOTE: we couldn't upload the pretrained_models of spleeter to the repository as they were large (over 100MB). However, when using the application, it will notice that you don't have them in your working directory and will install them, so the first time using may take longer time.
-##### NOTE: the songs and their separations are uploaded on google drive [here]()
+##### NOTE: the songs and their separations are uploaded on google drive [here](https://drive.google.com/drive/folders/1IrLSpqrKIKuhD1qMJITip7lEf8rjBk-o)
 
 ##### Steps
 1. Upload a song from 'Select A Song' button.
